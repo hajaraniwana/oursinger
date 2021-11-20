@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+         xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" 
+         xmlns:foaf="http://xmlns.com/foaf/0.1/">
+
+    <rdf:Description rdf:about="https://en.wikipedia.org/">
+        <foaf:know rdf:resource="https://en.wikipedia.org/wiki/Sezairi_Sezali" />
+        <foaf:know rdf:resource="https://en.wikipedia.org/wiki/Billie_Eilish" />
+        <foaf:know rdf:resource="https://en.wikipedia.org/wiki/Justin_Bieber" />
+        <foaf:know rdf:resource="https://en.wikipedia.org/wiki/Ariana_Grande" />
+        <foaf:know rdf:resource="https://en.wikipedia.org/wiki/Tulus_(singer)" />
+        <foaf:know rdf:resource="https://en.wikipedia.org/wiki/George_Benson" />
+        <foaf:know rdf:resource="https://en.wikipedia.org/wiki/Khalid_(singer)" />
+        <foaf:know rdf:resource="https://en.wikipedia.org/wiki/Alan_Walker_(music_producer)" />
+        <foaf:know rdf:resource="https://en.wikipedia.org/wiki/Shawn_Mendes" />
+        <foaf:know rdf:resource="https://en.wikipedia.org/wiki/Ahmad_Dhani" />
+        <foaf:know rdf:resource="https://en.wikipedia.org/wiki/Ed_Sheeran" />
+        <foaf:know rdf:resource="https://id.wikipedia.org/wiki/Feby_Putri" />
+    </rdf:Description>
+
+    <rdf:Description rdf:about="https://en.wikipedia.org/wiki/Sezairi_Sezali">
+        <foaf:name>Sezairi Sezali</foaf:name>
+        <foaf:img>https://hw-media.herworld.com/public/singapore_singers_bands_music_we_love_sezairi_sezali.jpg</foaf:img>
+        <foaf:birthday>6 Agustus 1987</foaf:birthday>
+        <foaf:gender>Pria</foaf:gender>
+        <geo:country>Singapura</geo:country>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="https://en.wikipedia.org/wiki/Billie_Eilish">
+        <foaf:name>Billie Eilish</foaf:name>
+        <foaf:img>https://upload.wikimedia.org/wikipedia/commons/f/fa/Billie_Eilish_2019_by_Glenn_Francis_%28cropped%29_2.jpg</foaf:img>
+        <foaf:birthday>18 Desember 2001</foaf:birthday>
+        <foaf:gender>Wanita</foaf:gender>
+        <geo:country>Amerika Serikat</geo:country>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="https://en.wikipedia.org/wiki/Khalid_(singer)">
+        <foaf:name>Khalid</foaf:name>
+        <foaf:img>https://upload.wikimedia.org/wikipedia/commons/d/df/Khalid-MTV_smiling.jpg</foaf:img>
+        <foaf:birthday>11 Februari 1998</foaf:birthday>
+        <foaf:gender>pria</foaf:gender>
+        <geo:country>Amerika Serikat</geo:country>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="https://en.wikipedia.org/wiki/Justin_Bieber">
+        <foaf:name>Justin Bieber</foaf:name>
+        <foaf:img>https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Justin_Bieber_in_2015.jpg/800px-Justin_Bieber_in_2015.jpg</foaf:img>
+        <foaf:birthday>1 Maret 1994</foaf:birthday>
+        <foaf:gender>Pria</foaf:gender>
+        <geo:country>Canada</geo:country>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="https://en.wikipedia.org/wiki/Ariana_Grande">
+        <foaf:name>Ariana Grande</foaf:name>
+        <foaf:img>https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Ariana_Grande_Grammys_Red_Carpet_2020.png/330px-Ariana_Grande_Grammys_Red_Carpet_2020.png</foaf:img>
+        <foaf:birthday>26 Juni 1993</foaf:birthday>
+        <foaf:gender>Wanita</foaf:gender>
+        <geo:country>Amerika Serikat</geo:country>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="https://en.wikipedia.org/wiki/Tulus_(singer)">
+        <foaf:name>Tulus</foaf:name>
+        <foaf:img>https://mir-s3-cdn-cf.behance.net/project_modules/1400/9c119c10558177.5628d02b5f0a4.jpg</foaf:img>    
+        <foaf:birthday>20 Agustus 1987</foaf:birthday>
+        <foaf:gender>Pria</foaf:gender>
+        <geo:country>Indonesia</geo:country>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="https://en.wikipedia.org/wiki/Shawn_Mendes">
+        <foaf:name>Shawn Mendes</foaf:name>
+        <foaf:img>https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Shawn_Mendes_teaches_you_Canadian_slangs_02.jpg/800px-Shawn_Mendes_teaches_you_Canadian_slangs_02.jpg</foaf:img>
+        <foaf:birthday>8 Agustus 1998</foaf:birthday>
+        <foaf:gender>Pria</foaf:gender>
+        <geo:country>Canada</geo:country>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="https://en.wikipedia.org/wiki/George_Benson">
+        <foaf:name>George Washington Benson</foaf:name>
+        <foaf:img>https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/George_Benson_2009.jpg/330px-George_Benson_2009.jpg</foaf:img>
+        <foaf:birthday>22 Maret 1943</foaf:birthday>
+        <foaf:gender>Pria</foaf:gender>
+        <geo:country>Amerika Serikat</geo:country>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="https://en.wikipedia.org/wiki/Alan_Walker_(music_producer)">
+        <foaf:name>Alan Walker</foaf:name>
+        <foaf:img>https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Alan_walkerCropped.jpg/330px-Alan_walkerCropped.jpg</foaf:img>
+        <foaf:birthday>24 Agustus 1997</foaf:birthday>
+        <foaf:gender>Pria</foaf:gender>
+        <geo:country>Inggris</geo:country>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="https://en.wikipedia.org/wiki/Ahmad_Dhani">
+        <foaf:name>Ahmad Dhani</foaf:name>
+        <foaf:img>https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dhani_Dewa_2005_1.JPG/330px-Dhani_Dewa_2005_1.JPG</foaf:img>
+        <foaf:birthday>26 Mei 1972</foaf:birthday>
+        <foaf:gender>Pria</foaf:gender>
+        <geo:country>Indonesia</geo:country>
+    </rdf:Description>  
+
+    <rdf:Description rdf:about="https://en.wikipedia.org/wiki/Ed_Sheeran">
+        <foaf:name>Ed Sheeran</foaf:name>
+        <foaf:img>https://upload.wikimedia.org/wikipedia/commons/c/c1/Ed_Sheeran-6886_%28cropped%29.jpg</foaf:img>
+        <foaf:birthday>17 Februari 1991</foaf:birthday>
+        <foaf:gender>Pria</foaf:gender>
+        <geo:country>Inggris</geo:country>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="https://id.wikipedia.org/wiki/Feby_Putri">
+        <foaf:name>Feby Putri</foaf:name>
+        <foaf:img>https://cdn.lifeloe.net/wp/wp-content/uploads/2019/05/Feby-Putri-Nilam-Cahyani.jpg</foaf:img>
+        <foaf:birthday>5 Februari 2000</foaf:birthday>
+        <foaf:gender>Wanita</foaf:gender>
+        <geo:country>Indonesia</geo:country>
+    </rdf:Description>  
+</rdf:RDF>
